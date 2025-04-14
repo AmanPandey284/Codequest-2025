@@ -6,4 +6,4 @@ Welcome to the official website repository for **CodeQuest 2025**, a 48-hour int
 
 ## 🌐 Live Site
 
-👉 [Visit the Website](https:/AmanPandey284.github.io/Codequest-2025/)
+👉 [Visit the Website](https://amanpandey284.github.io/Codequest-2025/)
